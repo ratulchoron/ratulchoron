@@ -1,4 +1,4 @@
-![Web Developer]([https://media.licdn.com/dms/image/D4D16AQGqNkc8FgacDQ/profile-displaybackgroundimage-shrink_350_1400/0/1720616899393?e=1727913600&v=beta&t=-Kr0Lf6vRiYlGIdVtiZWHg1R5tnUOp08Er7D78J4O_U](https://media.licdn.com/dms/image/D4D16AQE-fRFPidZITw/profile-displaybackgroundimage-shrink_350_1400/0/1722438191697?e=1727913600&v=beta&t=imh-Q-j6XKeHk2gH8qaGqICN3tvf1i51MMgLVEpBRGA))
+![Web Developer](https://media.licdn.com/dms/image/D4D16AQE-fRFPidZITw/profile-displaybackgroundimage-shrink_350_1400/0/1722438191697?e=1727913600&v=beta&t=imh-Q-j6XKeHk2gH8qaGqICN3tvf1i51MMgLVEpBRGA)
 
 ### Hi there 👋, I'm Ratul Chakraborty
 #### Web Developer
