@@ -1,15 +1,12 @@
 ![Web Developer](https://media.licdn.com/dms/image/D4D16AQE-fRFPidZITw/profile-displaybackgroundimage-shrink_350_1400/0/1722438191697?e=1727913600&v=beta&t=imh-Q-j6XKeHk2gH8qaGqICN3tvf1i51MMgLVEpBRGA)
 
-### Hi there 👋, I'm Ratul Chakraborty
-#### Web Developer
-
-
-As a passionate and detail-oriented junior web developer, I am eager to leverage my foundational skills in HTML, CSS, and JavaScript to create engaging, user-friendly web applications. I am committed to continuous learning and professional growth, aiming to contribute effectively to a dynamic development team. My goal is to develop innovative solutions that enhance user experience while adhering to best practices in coding and design. I am enthusiastic about collaborating with experienced professionals to further refine my technical abilities and contribute to impactful projects."
-
 <div align="center">
     <h2>Welcome to Ratul's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
   </div>
   
+I am enthusiastic about collaborating with experienced professionals to further refine my technical abilities and contribute to impactful projects.
+
+
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=hrhabib07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -23,9 +20,10 @@ As a passionate and detail-oriented junior web developer, I am eager to leverage
   
   
   <div >
-   
-    <img align="center" alt="Coding GIF" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
-  </div>
+ 
+  <img align="right" alt="Coding GIF" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
+</div>
+
   
   
   
@@ -48,8 +46,7 @@ As a passionate and detail-oriented junior web developer, I am eager to leverage
   
   ### 🌐 Socials:
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/
-  ratul-chakraborty-cb1) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/bikromaditya.chakraborty.ratul?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ratul.chakrab0rty?igsh=MWloeGxqZXh4eGVt)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratul-chakraborty-cb1/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/bikromaditya.chakraborty.ratul?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ratul.chakrab0rty?igsh=MWloeGxqZXh4eGVt)
   
   <br clear="both" />
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> 
