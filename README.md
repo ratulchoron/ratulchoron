@@ -50,7 +50,7 @@ I am enthusiastic about collaborating with experienced professionals to further 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratul-chakraborty-cb1/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/bikromaditya.chakraborty.ratul?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ratul.chakrab0rty?igsh=MWloeGxqZXh4eGVt)
   
   <br clear="both" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratulchoron)](https://github.com/anuraghazra/github-readme-stats) 
   <br clear="both" />
 
 
