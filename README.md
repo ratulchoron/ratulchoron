@@ -53,7 +53,9 @@ I am enthusiastic about collaborating with experienced professionals to further 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratulchoron)](https://github.com/anuraghazra/github-readme-stats) 
   
 
-
+<div align="center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratulchoron)](https://github.com/anuraghazra/github-readme-stats) 
+  </div>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ratulchoron&show_icons=true&count_private=true)  
