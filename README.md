@@ -1,4 +1,4 @@
-![Web Developer](https://media.licdn.com/dms/image/D4D16AQE-fRFPidZITw/profile-displaybackgroundimage-shrink_350_1400/0/1722438191697?e=1727913600&v=beta&t=imh-Q-j6XKeHk2gH8qaGqICN3tvf1i51MMgLVEpBRGA)
+
 
 <div align="center">
     <h2>Welcome to Ratul's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
