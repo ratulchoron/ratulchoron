@@ -37,7 +37,7 @@ I am enthusiastic about collaborating with experienced professionals to further 
   
   
   
-  ### 👨‍💻 2024 Goals
+  ### 👨‍💻 2025 Goals
   
   - Become proficient in Next.js
   - Contribute to MERN stack projects
